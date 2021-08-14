@@ -46,7 +46,7 @@ We have to seperate out reads into 24 sample files, 1 file for hopped indexes an
 4. Pseudocode
 ```
 Open 2 read files and 2 index files.
-Open 2 files for each index
+Open 2 files for each index 
 Open 2 files for hopped indexes
 Open 2 files for garbage indexes
 

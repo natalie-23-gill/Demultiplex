@@ -1,0 +1,27 @@
+Number of Bad Indexes: 35352269
+Number of Hopped Indexes: 90614536
+Number of Reads: 1452986937
+Sample B1  matched read %: 2.2351867847522153
+Sample A5  matched read %: 1.543018965214551
+Sample C1  matched read %: 1.8133955185035502
+Sample B9  matched read %: 2.4424263629838814
+Sample C9  matched read %: 2.9262845327287343
+Sample C3  matched read %: 1.3943431619440636
+Sample B3  matched read %: 9.628823524653615
+Sample C4  matched read %: 21.022585972498664
+Sample A11  matched read %: 4.771422387536579
+Sample C7  matched read %: 1.1538680474730243
+Sample B2  matched read %: 2.0417408611568266
+Sample A1  matched read %: 2.186627504415066
+Sample B7  matched read %: 3.07898267085384
+Sample A3  matched read %: 4.331217741704997
+Sample B4  matched read %: 2.4309305954895866
+Sample A12  matched read %: 1.0608078852948422
+Sample C10  matched read %: 11.58829743835474
+Sample A2  matched read %: 2.777038868863554
+Sample C2  matched read %: 1.8961194556148993
+Sample A10  matched read %: 3.2323888676502257
+Sample B8  matched read %: 1.2694814750423322
+Sample A7  matched read %: 1.0023688189565603
+Sample B10  matched read %: 3.1154526477343
+Sample A8  matched read %: 2.3876828563669323

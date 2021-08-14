@@ -1,6 +1,6 @@
 #!/user/bin/env python
 
-#Module for adding functions for Bi621 assingments
+#Module for adding functions for Bi621 and Bi622 assignments
 import gzip
 
 DNAbases="ATGCNatcgn"
@@ -57,3 +57,24 @@ def populate_list_gz(file):
             k+=1
         counter= k-1
         return qlist,counter
+
+
+def complement(letter):   
+        ''' Takes in a letter and
+         returns complimentary bases'''   
+        letter=letter.upper()
+        bases_dict={
+            'A':'T',
+            'T':'A',
+            'G':'C',
+            'C':'G',
+            'N':'N'
+        }    
+        return bases_dict.get(letter)
+
+def revcomp(sequence_line):   
+    '''Takes in a sequence line of ATCGNs and returns the reverse complement'''   
+    reverse_seq=""
+    for letter in sequence_line[::-1]:
+        reverse_seq+= complement(letter) 
+    return reverse_seq
