@@ -12,13 +12,14 @@
 
 2. Per-base NT distribution
     1. Use markdown to insert your 4 histograms here.   
-    Index 1:
+    Index 1:   
     ![Index 1](mean_distribution_index_1.png)   
-    Index 2:
+    Index 2:   
     ![Index 2](mean_distribution_index_2.png)   
-    Read 1:
+    Read 1:   
     ![Read 1](mean_distribution_read_1.png)   
-    Read 2:
+    Read 2:   
+    
     ![Read 2](mean_distribution_read_2.png)
 
     2. Quality score cutoff for biological reads should be Q20 (99% base call accuracy) sufficient for aligning the mRNA to the refrence genome while ccounting for the PCR/Reverse transcriptase errors.
